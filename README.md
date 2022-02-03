@@ -1,12 +1,28 @@
-# Getting Started with Create React App
+# SpaceX has done it again
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Go green, save a life!
+
+Hey, thanks for the opportunity to take this test.
+
+I have been driving a Tesla Model S for 7 years, yeey! Planted a few trees and watched everything there is to watch about SpaceX, astronomy and how big our universe is.
+
+Given more time and resources, I'm sure I'd work on a project that WoW's clients and users.
+
+I've attached a bit of flavour, a bit of spice, something of my own.
+
+The project has a custom icon, and is a little bit prepared for SEO considerations.
+
+I've used a feature based approach where responsibility is split in files related to a component, all near each other.
+
+## Ag-grid
+
+To sort and search as required, I've used the sorting provided by ag-grid-react, and the search as well.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +30,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -27,20 +43,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Find More about Secret Agent Doctor Web
 
-### `npm run eject`
+My first client and all employees, nicknamed me DoctorWeb. I've been helping the coding community every single weekend for the last 7 years, and here are their stories, simple normal people, with great potential, discovered the world of web developers, following the journey I've presented to them, step by step, over my shoulder, in 1 to 1 sessions or mob programming.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Click here to [Watch the power of a storm pale in comparison with our impact!](https://wowdop.com) **NOW**!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
